@@ -1,4 +1,7 @@
 # WidgetWise
+
+Available on IOS App store: https://apps.apple.com/ca/app/widget-wise/id6479582377
+
 WidgetWise is an innovative iOS app designed to bring daily inspiration directly to users through customizable widgets on the home screen. This app allows users to select motivational quotes, customize their appearance, and share them directly with friends, enhancing both personal motivation and connectivity.
 
 Technologies Used
